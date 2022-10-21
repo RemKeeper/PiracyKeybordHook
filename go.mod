@@ -1,4 +1,4 @@
-module KeyBordHook
+module PiracyKeybordHook
 
 go 1.19
 
